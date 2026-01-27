@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/conewarrior/design-system-test-1#readme",
   "dependencies": {
-    "@design-geniefy/ui": "^0.0.8",
+    "@design-geniefy/ui": "^0.0.11",
     "@types/react": "^19.2.9",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.1.2",
