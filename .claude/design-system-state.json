@@ -1,0 +1,44 @@
+{
+  "setupVersion": "2.1.0",
+  "lastUpdated": "2026-01-27",
+  "appliedFeatures": {
+    "npm-package": true,
+    "tokens-import": true,
+    "claude-md-base": true,
+    "claude-md-component-rules": true,
+    "claude-md-version-management": true,
+    "hook-user-prompt-submit": true,
+    "hook-post-tool-use-contribute": true,
+    "hook-post-tool-use-lint": true,
+    "script-auto-contribute": true,
+    "script-lint-design-rules": true,
+    "script-verify-design-setup": true,
+    "dependabot": true,
+    "dependabot-auto-merge": true
+  },
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2025-01-27",
+      "changes": ["Initial setup"]
+    },
+    {
+      "version": "2.0.0",
+      "date": "2025-01-27",
+      "changes": [
+        "Added claude-md-component-rules",
+        "Added hook-post-tool-use-lint",
+        "Added script-lint-design-rules"
+      ]
+    },
+    {
+      "version": "2.1.0",
+      "date": "2026-01-27",
+      "changes": [
+        "버전 기반 상태 추적 추가",
+        "verify-design-setup.sh 스크립트 추가",
+        "CLAUDE.md에 설정 버전 관리 섹션 추가"
+      ]
+    }
+  ]
+}
