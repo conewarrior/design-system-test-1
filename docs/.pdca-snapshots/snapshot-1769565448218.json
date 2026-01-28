@@ -1,0 +1,321 @@
+{
+  "timestamp": "2026-01-28T01:57:28.217Z",
+  "reason": "compaction",
+  "status": {
+    "version": "2.0",
+    "lastUpdated": "2026-01-28T01:56:20.174Z",
+    "activeFeatures": [
+      "PageHeader",
+      "SearchFilter",
+      "InfoTable",
+      "DateRangePicker",
+      "ImageUpload",
+      "FormField",
+      "Toggle",
+      "layouts",
+      "category",
+      "decoration",
+      "product",
+      "order",
+      "banned-keyword",
+      "design-system-test-1"
+    ],
+    "primaryFeature": "layouts",
+    "features": {
+      "PageHeader": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-01-28T01:33:26.672Z",
+          "lastUpdated": "2026-01-28T01:33:26.672Z"
+        }
+      },
+      "SearchFilter": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-01-28T01:33:50.138Z",
+          "lastUpdated": "2026-01-28T01:33:50.138Z"
+        }
+      },
+      "InfoTable": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-01-28T01:34:21.567Z",
+          "lastUpdated": "2026-01-28T01:34:21.567Z"
+        }
+      },
+      "DateRangePicker": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-01-28T01:34:48.372Z",
+          "lastUpdated": "2026-01-28T01:34:48.372Z"
+        }
+      },
+      "ImageUpload": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-01-28T01:35:17.522Z",
+          "lastUpdated": "2026-01-28T01:35:17.522Z"
+        }
+      },
+      "FormField": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-01-28T01:35:32.858Z",
+          "lastUpdated": "2026-01-28T01:35:32.858Z"
+        }
+      },
+      "Toggle": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-01-28T01:35:51.171Z",
+          "lastUpdated": "2026-01-28T01:35:51.171Z"
+        }
+      },
+      "layouts": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-01-28T01:44:23.077Z",
+          "lastUpdated": "2026-01-28T01:56:07.989Z"
+        }
+      },
+      "category": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-01-28T01:45:31.391Z",
+          "lastUpdated": "2026-01-28T01:45:31.391Z"
+        }
+      },
+      "decoration": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-01-28T01:45:52.848Z",
+          "lastUpdated": "2026-01-28T01:46:09.037Z"
+        }
+      },
+      "product": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-01-28T01:46:31.659Z",
+          "lastUpdated": "2026-01-28T01:46:51.105Z"
+        }
+      },
+      "order": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-01-28T01:47:17.918Z",
+          "lastUpdated": "2026-01-28T01:47:58.734Z"
+        }
+      },
+      "banned-keyword": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-01-28T01:48:06.429Z",
+          "lastUpdated": "2026-01-28T01:48:06.429Z"
+        }
+      },
+      "design-system-test-1": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-01-28T01:48:23.769Z",
+          "lastUpdated": "2026-01-28T01:48:23.769Z"
+        }
+      }
+    },
+    "pipeline": {
+      "currentPhase": 1,
+      "level": "Dynamic",
+      "phaseHistory": []
+    },
+    "session": {
+      "startedAt": "2026-01-28T00:35:48.728Z",
+      "onboardingCompleted": false,
+      "lastActivity": "2026-01-28T01:56:20.174Z"
+    },
+    "history": [
+      {
+        "timestamp": "2026-01-28T01:33:26.672Z",
+        "feature": "PageHeader",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-01-28T01:33:50.138Z",
+        "feature": "SearchFilter",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-01-28T01:34:21.567Z",
+        "feature": "InfoTable",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-01-28T01:34:48.372Z",
+        "feature": "DateRangePicker",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-01-28T01:35:17.522Z",
+        "feature": "ImageUpload",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-01-28T01:35:32.858Z",
+        "feature": "FormField",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-01-28T01:35:51.171Z",
+        "feature": "Toggle",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-01-28T01:44:23.077Z",
+        "feature": "layouts",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-01-28T01:45:31.391Z",
+        "feature": "category",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-01-28T01:45:52.848Z",
+        "feature": "decoration",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-01-28T01:46:09.037Z",
+        "feature": "decoration",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-01-28T01:46:31.659Z",
+        "feature": "product",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-01-28T01:46:51.105Z",
+        "feature": "product",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-01-28T01:47:17.918Z",
+        "feature": "order",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-01-28T01:47:39.934Z",
+        "feature": "order",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-01-28T01:47:58.734Z",
+        "feature": "order",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-01-28T01:48:06.429Z",
+        "feature": "banned-keyword",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-01-28T01:48:23.769Z",
+        "feature": "design-system-test-1",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-01-28T01:56:07.989Z",
+        "feature": "layouts",
+        "phase": "do",
+        "action": "updated"
+      }
+    ]
+  }
+}
