@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { PageHeader } from '../../../components/PageHeader';
 import { SearchFilter } from '../../../components/SearchFilter';
 import { Table } from '../../../components/Table';
-import { Button, Select, Input, Checkbox, Badge, Modal } from '@design-geniefy/ui';
+import { Button, Select, Input, Checkbox, Modal } from '@design-geniefy/ui';
 
 const mockData = [
   {
@@ -110,7 +110,7 @@ export function DecorationListPage() {
 
       {/* 카테고리 관리 모달 */}
       <Modal
-        isOpen={isModalOpen}
+        open={isModalOpen}
         onClose={() => setIsModalOpen(false)}
         title="배너/템플릿 카테고리 관리"
       >

@@ -21,7 +21,10 @@ export function Toggle({
         gap: 'var(--spacing-2)',
       }}
     >
-      <Switch checked={checked} onChange={onChange} />
+      <Switch
+        checked={checked}
+        onChange={(e) => onChange(e.target.checked)}
+      />
       <span
         style={{
           fontSize: 'var(--font-size-sm)',

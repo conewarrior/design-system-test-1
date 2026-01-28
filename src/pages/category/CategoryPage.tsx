@@ -101,7 +101,7 @@ export function CategoryPage() {
       </div>
 
       {/* 전시 카테고리 관리 모달 */}
-      <Modal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} title="전시 카테고리 관리">
+      <Modal open={isModalOpen} onClose={() => setIsModalOpen(false)} title="전시 카테고리 관리">
         <div style={{ padding: 'var(--spacing-4)' }}>
           <div
             style={{
